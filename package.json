@@ -1,0 +1,22 @@
+{
+  "name": "vk-tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tailwindcss -i ./input.css -o ./css/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MNet-PP/Vk-tailwind.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MNet-PP/Vk-tailwind/issues"
+  },
+  "homepage": "https://github.com/MNet-PP/Vk-tailwind#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
